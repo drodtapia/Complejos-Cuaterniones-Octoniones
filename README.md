@@ -40,7 +40,7 @@ Estos scripts permiten al usuario introducir diferentes valores y obtener result
 ### Demostración:
 Al ejecutar cualquiera de los scripts de ejemplo y seguir las instrucciones proporcionadas en pantalla, se mostrarán cada uno de los métodos definidos para las clases correspondientes. Cada script de ejemplo permite al usuario ingresar los números necesarios y ver los resultados de las operaciones realizadas. A continuación se muestra una demostración del `Ejemplo_1.py`
 ```bash
-$ py Ejemplo_1.py
+$ python3 Ejemplo_1.py
 Introducir real z1: 1
 Introducir imaginario z1: 2
 Introducir real z2: 3
